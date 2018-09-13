@@ -1,0 +1,27 @@
+[
+    {
+      "name_pl": "- Country -",
+      "name_en": "- Country -",
+      "code": "SL"
+  },
+    {
+      "name_pl": "Czechy",
+      "name_en": "Czech Republic",
+      "code": "CZ"
+    },
+    {
+      "name_pl": "Niemcy",
+      "name_en": "Germany",
+      "code": "DE"
+    },
+    {
+      "name_pl": "Polska",
+      "name_en": "Poland",
+      "code": "PL"
+    },
+    {
+      "name_pl": "Słowacja",
+      "name_en": "Slovakia",
+      "code": "SK"
+  }
+]
